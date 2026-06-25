@@ -1,0 +1,7 @@
+project2-classification/
+├── project2_classification.py   # Main implementation
+├── requirements.txt              # Dependencies
+├── README.md                     # Documentation
+├── k_selection.png              # K selection plot
+├── confusion_matrix.png         # Confusion matrix
+└── feature_visualization.png    # Feature plots
